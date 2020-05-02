@@ -2,4 +2,4 @@
 
 Cyberpunk tasarımlı responsive bootstrap login page.
 
-![LoginPage](https://ibb.co/t8LcjBH)
+<a href="https://ibb.co/t8LcjBH"><img src="https://i.ibb.co/kQm0bKG/loginpage.jpg" alt="loginpage" border="0"></a>
